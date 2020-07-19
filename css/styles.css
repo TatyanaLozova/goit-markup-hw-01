@@ -1,9 +1,10 @@
 body {
-  font-family: "Roboto", sans-serif;
-  font-size: 18px;
-  line-height: 1.56;
-  letter-spacing: 0.03em;
-  color: #212121;
+font-family: "Roboto" sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
   background: #FFFFFF;
 }
 .title {
@@ -67,13 +68,24 @@ color: #757575;
 color: #f5f4fa;}
 
 .subtitle {
-font-family: Roboto;
+font-family: "Roboto" sans-serif
 font-style: normal;
 font-weight: bold;
 font-size: 36px;
 line-height: 1.17px;
 text-align: center;
 letter-spacing: 0.03em;
+color: #212121;
+}
+
+.heading {
+font-family: "Roboto" sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 color: #212121;
 }
 
