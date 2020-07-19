@@ -8,8 +8,8 @@ letter-spacing: 0.03em;
   background: #FFFFFF;
 }
 .title {
-  color: #b8f5e2;
-  font-family: Roboto;
+color: #b8f5e2;
+font-family: Roboto;
 font-style: normal;
 font-weight: 900;
 font-size: 44px;
@@ -87,6 +87,7 @@ line-height: 1.14;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;
+text-decoration: none
 }
 .text { 
 font-family: "Roboto" sans-serif, 
