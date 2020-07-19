@@ -7,8 +7,16 @@ body {
   background: #FFFFFF;
 }
 .caption {
-  color: #FFFFFF;
-;
+  color: #b8f5e2;
+  font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
 }
 .logo{
 font-family: "Raleway", sans-serif;
@@ -23,7 +31,7 @@ color: #000000
 .logo-part {
   color: #2196F3;
 }
-/*
+
 .menu-link {
   font-family: "Roboto" sans-serif, 
   font-style: normal;
@@ -58,7 +66,7 @@ color: #757575;
  .btn:focus{background:#2196F3;
 color: #f5f4fa;}
 
-
+/*
   .btn{
  font-family: "Roboto" sans-serif, 
 font-style: normal;
