@@ -32,7 +32,9 @@ color: #000000
 .logo-part {
   color: #2196F3;
 }
-
+.hidden {
+color: #FFFFFF;
+}
 .menu-link {
   font-family: "Roboto" sans-serif, 
   font-style: normal;
