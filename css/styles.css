@@ -99,6 +99,11 @@ letter-spacing: 0.03em;
 color: #757575;
 
 }
+ .section{
+  text-decoration: none;
+ }
+
+
 
 /*
   .btn{
@@ -161,8 +166,6 @@ color: #FFFFFF;
   font-style: normal;
   color: rgba(255, 255, 255, 0.6);
 }
-
-
 
 .aside {
 font-weight: bold;
